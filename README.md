@@ -1,7 +1,7 @@
 # README 읽어주세요  
 Fallout 4 GOTY 에디션 최신 버전(v1.10.984.0.0) 기준으로 작성했습니다.  
 버전 다운그레이드가 필요 없는 기초적인 mod들만 포함했습니다.  
-[다운로드 방법](./readmeimg/다운로드-방법.png)  
+
 
 ### 외부 프로그램 버전  
 Mod Organizer2 - v2.5.5  
@@ -26,23 +26,24 @@ f4se - build: 0.7.2
 - 스팀에서 게임 최초 한 번 실행  
 
 ### MO2 초기 설정  
-[MO2 최초 설정1](./readmeimg/portable.png)  
-[MO2 최초 설정2](./readmeimg/local-ini.png)  
+![MO2 최초 설정1](./readmeimg/portable.png)  
+![MO2 최초 설정2](./readmeimg/local-ini.png)  
 - `.../Fallout 4/MO2/ModOrganizer.exe` 최초 실행 위 스샷대로 따라하면 됩니다.  
 - 게임 경로는 스팀 게임 설치 폴더에 있는 `Fallout 4`로  
+- MO2 경로 지정해주는건 안건들고 그대로 next  
 - local ini 설정은 꼭 체크해주세요.  
 그 이후 뜨는 창은 다 아니오 하셔도 됩니다.  
 
-[F4SE 실행 테스트](./readmeimg/F4SE실행-테스트.png)  
+![F4SE 실행 테스트](./readmeimg/F4SE실행-테스트.png)  
 - empty 프로파일 선택 후 `f4se`로 실행, 장상실행 확인 후 종료 (정상적으로 실행 되는지 확인)  
 실패하면 [해결 방법](#f4se로-실행했는데-까만-창이-떴다가-바로-꺼질-경우)  
 
-[모드 불러오기](./readmeimg/모드불러오기.png)  
+![모드 불러오기](./readmeimg/모드불러오기.png)  
 - profile을 `empty`에서 `vanilla++`로 변경, 왼쪽 모드 목록과 오른쪽 모드 목록 다 백업 불러오기 클릭  
 
-[ini설정1](./readmeimg/ini설정1.png)  
-[ini설정2](./readmeimg/ini설정2-해상도,전체화면.png)  
-[해상도 설정](./readmeimg/해상도설정.png)  
+![ini설정1](./readmeimg/ini설정1.png)  
+![ini설정2](./readmeimg/ini설정2-해상도,전체화면.png)  
+![해상도 설정](./readmeimg/해상도설정.png)  
 - 본인 해상도에 맞게 설정해주세요  
 
 - FOV, HUD 등 다양한 인게임 모드 설정은 ESC -> `MCM Config`에 있습니다.  
@@ -78,6 +79,6 @@ MO2에서 `Far Object LOD Improvement Project`, `Pregenerated Object LOD` 체크
 MO2에서 `Lightweight Lighting` 모드 체크 해제 하세요  
 
 ### pip-boy 애니메이션이 미친듯이 빨라요  
-[pip-boy 애니메이션 fix](./readmeimg/pip-boy애니메이션fix.png)  
+![pip-boy 애니메이션 fix](./readmeimg/pip-boy애니메이션fix.png)  
 MO2에서 `High FPS Physics Fix` 더블클릭해서 80번 줄  `PipBoyFPS` 값을 60.0으로 바꾸기 (안거슬리면 살짝 더 올려도 괜찮을듯?)  
 
