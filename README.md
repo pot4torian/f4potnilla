@@ -11,6 +11,7 @@ f4se - build: 0.7.2
 ## 종속성
 게임 많이 설치하셔서 아마 다 있으실텐데 혹시 오류 뜨면 깔면 됩니다.  
 
+들어가서 중간에 x64 버전 설치  
 [Visual C++ Redistributable for Visual Studio 2015-2022](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)  
 
 ## 백업 (선택)  
@@ -23,21 +24,23 @@ f4se - build: 0.7.2
 
 번역된 인트로랑 아웃트로는 `Video` 폴더에 있습니다. 적용하고 싶으시면 `Fallout 4/Data/Video` 폴더에 덮어씌우시면 됩니다.  
 
-## 초기 설정(수정중)  
+## 초기 설정  
 - 스팀에서 게임 최초 한 번 실행  
 
 ### MO2 초기 설정  
-![MO2 최초 설정1](./readmeimg/portable.png)  
-![MO2 최초 설정2](./readmeimg/local-ini.png)  
-- `.../Fallout 4/MO2/ModOrganizer.exe` 최초 실행 위 스샷대로 따라하면 됩니다.  
+- `.../Fallout 4/MO2/ModOrganizer.exe` 최초 실행, 스샷대로 따라하면 됩니다.  
 
 - 게임 경로는 스팀 게임 설치 폴더에 있는 `Fallout 4`로  
 
-![MO2 최초 설정3](./readmeimg/MO2경로.png)  
+![MO2 최초 설정1](./readmeimg/portable.png)  
+![MO2 최초 설정2](./readmeimg/local-ini.png)  
+
+
 - MO2 경로 지정해주는건 안건들고 그대로 next  
 
-- local ini 설정은 꼭 체크해주세요.  
-그 이후 뜨는 창은 다 아니오 하셔도 됩니다.  
+![MO2 최초 설정3](./readmeimg/MO2경로.png)  
+
+이 이후 뜨는 창은 다 그대로 넘기기.  
 
 ![F4SE 실행 테스트](./readmeimg/F4SE실행-테스트.png)  
 - empty 프로파일 선택 후 `f4se`로 실행, 정상실행 확인 후 종료 (정상적으로 실행 되는지 확인)  
