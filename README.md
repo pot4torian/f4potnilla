@@ -2,6 +2,7 @@
 Fallout 4 GOTY 에디션 최신 버전(v1.10.984.0.0) 기준으로 작성했습니다.  
 버전 다운그레이드가 필요 없는 기초적인 mod들만 포함했습니다.  
 
+[다운로드 링크](https://drive.google.com/file/d/1UhTZHqjqYRUkBb833AgqeU3l3iCOoWH9/view?usp=drive_link)  
 
 ### 외부 프로그램 버전  
 Mod Organizer2 - v2.5.5  
@@ -29,13 +30,17 @@ f4se - build: 0.7.2
 ![MO2 최초 설정1](./readmeimg/portable.png)  
 ![MO2 최초 설정2](./readmeimg/local-ini.png)  
 - `.../Fallout 4/MO2/ModOrganizer.exe` 최초 실행 위 스샷대로 따라하면 됩니다.  
+
 - 게임 경로는 스팀 게임 설치 폴더에 있는 `Fallout 4`로  
+
+![MO2 최초 설정3](./readmeimg/MO2경로.png)  
 - MO2 경로 지정해주는건 안건들고 그대로 next  
+
 - local ini 설정은 꼭 체크해주세요.  
 그 이후 뜨는 창은 다 아니오 하셔도 됩니다.  
 
 ![F4SE 실행 테스트](./readmeimg/F4SE실행-테스트.png)  
-- empty 프로파일 선택 후 `f4se`로 실행, 장상실행 확인 후 종료 (정상적으로 실행 되는지 확인)  
+- empty 프로파일 선택 후 `f4se`로 실행, 정상실행 확인 후 종료 (정상적으로 실행 되는지 확인)  
 실패하면 [해결 방법](#f4se로-실행했는데-까만-창이-떴다가-바로-꺼질-경우)  
 
 ![모드 불러오기](./readmeimg/모드불러오기.png)  
@@ -53,9 +58,13 @@ f4se - build: 0.7.2
 ## 에러가 생길 경우  
 ### `f4se`로 실행했는데 까만 창이 떴다가 바로 꺼질 경우  
 하나씩 해보세요  
+
 - 컴퓨터에 `Fasoo DRM`이란 프로그램이 설치되어 있는지 확인, 삭제  
+
 - MO2에서 `Fix Radio Subtitle` 체크 해제하기 - 이거 끄면 라디오 자막 없어짐  
+
 라디오 자막 없어지는거 싫으면 `High FPS Physics Fix` 체크 해제하기 - fps 높을 때 발생하는 문제 해결하는 모드, 해제하면 로딩 느려짐, 높은 fps에서 다양한 문제 발생  
+
 - windows defender에서 `Fallout 4` 폴더 검사 중지  
 
 ## 버그 관련  
@@ -71,8 +80,10 @@ MO2에서 `Far Object LOD Improvement Project`, `Pregenerated Object LOD` 체크
 
 #### 모드 해제  
 - `3rd Person Behavior Fixes` - 3인칭 애니메이션 수정 모드  
+
 - `Fix Radio Subtitle` - 라디오 자막 모드, or `High FPS Physics Fix` - 60fps 이상 물리 버그 수정 모드  
 이건 둘 중 하나만, high fps는 해제하면 로딩 매우 느려질 수 있음  
+
 - [Buffout](https://www.nexusmods.com/fallout4/mods/64880?tab=description) 설치 - 필요하면 설명 추가 예정... 종속성 설치 필요  
 
 ### 너무 어두워서 불편할 경우  
