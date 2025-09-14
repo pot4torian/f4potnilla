@@ -34,25 +34,24 @@ f4se - build: 0.7.2
 
 ![MO2 최초 설정1](./readmeimg/portable.png)  
 ![MO2 최초 설정2](./readmeimg/local-ini.png)  
-  
+<br>
 
 - MO2 경로 지정해주는건 안건들고 그대로 next  
 
 ![MO2 최초 설정3](./readmeimg/MO2경로.png)  
 이 이후 뜨는 창은 다 그대로 넘기기.  
-  
+<br>
 
 - empty 프로파일 선택 후 `f4se`로 실행, 정상실행 확인 후 종료 (정상적으로 실행 되는지 확인)  
 실패하면 [해결 방법](#f4se로-실행했는데-까만-창이-떴다가-바로-꺼질-경우)  
 ![F4SE 실행 테스트](./readmeimg/F4SE실행-테스트.png)  
-  
+<br>
 
 - profile을 `empty`에서 `vanilla++`로 변경, 왼쪽 모드 목록과 오른쪽 모드 목록 다 백업 불러오기 클릭  
 ![모드 불러오기](./readmeimg/모드불러오기.png)  
-  
+<br>
 
-해상도가 2560x1440가 아니라면 맞게 수정해주세요.  
-
+- 해상도가 2560x1440가 아니라면 맞게 수정해주세요.  
 ![ini설정1](./readmeimg/ini설정1.png)  
 ![ini설정2](./readmeimg/ini설정2-해상도,전체화면.png)  
 ![해상도 설정](./readmeimg/해상도설정.png)  
