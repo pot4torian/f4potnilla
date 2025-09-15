@@ -103,7 +103,12 @@ MO2에서 `Far Object LOD Improvement Project`, `Pregenerated Object LOD` 체크
 - [Buffout](https://www.nexusmods.com/fallout4/mods/64880?tab=description) 설치 - 필요하면 설명 추가 예정... 종속성 설치 필요  
 
 ### 너무 어두워서 불편할 경우  
-MO2에서 `Lightweight Lighting` 모드 체크 해제 하세요  
+~MO2에서 `Lightweight Lighting` 모드 체크 해제 하세요~  
+기본 설정으로 꺼놨습니다  
+
+### 대화 할 때 주인공이 다른 곳을 바라볼 경우  
+[모드 링크](https://www.nexusmods.com/fallout4/mods/73722?tab=files)  
+첫번째 모드 받아서 설치해주세요  
 
 ### pip-boy 애니메이션이 미친듯이 빨라요  
 ![pip-boy 애니메이션 fix](./readmeimg/pip-boy애니메이션fix.png)  
