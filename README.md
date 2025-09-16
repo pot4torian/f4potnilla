@@ -10,7 +10,7 @@ Mod Organizer2 - v2.5.5
 f4se - build: 0.7.2  
 
 ## 종속성
-게임 많이 설치하셔서 아마 다 있으실텐데 혹시 오류 뜨면 깔면 됩니다.  
+혹시 없다고 오류 뜨면 깔면 됩니다.  
 
 들어가서 중간에 x64 버전 설치  
 [Visual C++ Redistributable for Visual Studio 2015-2022](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)  
