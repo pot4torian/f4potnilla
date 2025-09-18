@@ -34,7 +34,8 @@ f4se - build: 0.7.2
 - 게임 경로는 스팀 게임 설치 폴더에 있는 `Fallout 4`로  
 
 ![MO2 최초 설정1](./readmeimg/portable.png)  
-![MO2 최초 설정2](./readmeimg/local-ini.png)  
+![MO2 최초 설정2](./readmeimg/local-ini.png)
+(local 체크 안해도 어차피 프로파일에 local로 셋팅 돼있긴 함)  
 <br>
 
 - MO2 경로 지정해주는건 안건들고 그대로 next  
