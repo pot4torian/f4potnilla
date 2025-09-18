@@ -2,7 +2,7 @@
 Fallout 4 GOTY 에디션 최신 버전(v1.10.984.0.0) 기준으로 작성했습니다.  
 버전 다운그레이드가 필요 없는 기초적인 mod들만 포함했습니다.  
 
-[다운로드 링크]([https://drive.google.com/file/d/1UhTZHqjqYRUkBb833AgqeU3l3iCOoWH9/view?usp=drive_link](https://drive.google.com/drive/folders/1M2BVgm2ltEnazZjBx_luif4oiNrieI35?usp=sharing))  
+[다운로드 링크](https://drive.google.com/drive/folders/1M2BVgm2ltEnazZjBx_luif4oiNrieI35?usp=sharing)  
 (필요하신분 있으시면 요청 넣으세요 열어드릴게요)  
 
 ### 외부 프로그램 버전  
