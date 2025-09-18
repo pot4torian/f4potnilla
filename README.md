@@ -64,8 +64,6 @@ f4se - build: 0.7.2
 ![해상도 설정](./readmeimg/해상도설정.png)  
 
 ## 인게임 설정  
-시작하기 전에 메인화면 설정에서 자막 켜져있는지 확인해주세요.  
-
 FOV, HUD 등 다양한 인게임 모드 설정은 ESC -> `MCM Config`에 있습니다.  
 
 여기까지 설정 끝 입니다.  
@@ -80,9 +78,9 @@ MO2 껐다가 다시 실행하세요
 
 - 컴퓨터에 `Fasoo DRM`이란 프로그램이 설치되어 있는지 확인, 삭제  
 
-- MO2에서 `Fix Radio Subtitle` 체크 해제하기 - 이거 끄면 라디오 자막 없어짐  
+- MO2에서 `Fix Radio Subtitle` 또는 `High FPS Physics Fix` 체크 해제하기  
 
-라디오 자막 없어지는거 싫으면 `High FPS Physics Fix` 체크 해제하기 - fps 높을 때 발생하는 문제 해결하는 모드, 해제하면 로딩 느려짐, 높은 fps에서 다양한 문제 발생  
+첫번째는 라디오 자막 모드, 두번째는 로딩속도 개선이랑 fps 높을 때 발생하는 문제 고치는 모드  
 
 - windows defender에서 `Fallout 4` 폴더 검사 중지  
 
