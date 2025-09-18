@@ -56,7 +56,8 @@ f4se - build: 0.7.2
 ![모드 불러오기](./readmeimg/모드불러오기.png)  
 <br>
 
-- 해상도가 2560x1440가 아니라면 맞게 수정해주세요.
+- 해상도가 2560x1440가 아니라면 맞게 수정해주세요.  
+테두리 없는 창모드 하려면 `bFull Screen` 값을 0으로 바꾸면 됨  
 
 ![ini설정1](./readmeimg/ini설정1.png)  
 ![ini설정2](./readmeimg/ini설정2-해상도,전체화면.png)  
