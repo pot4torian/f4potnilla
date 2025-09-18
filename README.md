@@ -56,7 +56,7 @@ f4se - build: 0.7.2
 ![모드 불러오기](./readmeimg/모드불러오기.png)  
 <br>
 
-- 해상도가 2560x1440가 아니라면 맞게 수정해주세요. 해상도 안맞으면 실행 안됨  
+- 해상도가 2560x1440가 아니라면 맞게 수정해주세요.
 
 ![ini설정1](./readmeimg/ini설정1.png)  
 ![ini설정2](./readmeimg/ini설정2-해상도,전체화면.png)  
@@ -102,15 +102,9 @@ MO2에서 `Far Object LOD Improvement Project`, `Pregenerated Object LOD` 체크
 - `Fix Radio Subtitle` - 라디오 자막 모드, or `High FPS Physics Fix` - 60fps 이상 물리 버그 수정 모드  
 이건 둘 중 하나만, high fps는 해제하면 로딩 매우 느려질 수 있음  
 
-- [Buffout](https://www.nexusmods.com/fallout4/mods/64880?tab=description) 설치 - 필요하면 설명 추가 예정... 종속성 설치 필요  
-
 ### 너무 어두워서 불편할 경우  
 ~MO2에서 `Lightweight Lighting` 모드 체크 해제 하세요~  
 기본 설정으로 꺼놨습니다  
-
-### 대화 할 때 주인공이 다른 곳을 바라볼 경우  
-[모드 링크](https://www.nexusmods.com/fallout4/mods/73722?tab=files)  
-첫번째 모드 받아서 설치해주세요  
 
 ### pip-boy 애니메이션이 미친듯이 빨라요  
 ![pip-boy 애니메이션 fix](./readmeimg/pip-boy애니메이션fix.png)  
