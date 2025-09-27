@@ -78,9 +78,9 @@ MO2 껐다가 다시 실행하세요
 
 - 컴퓨터에 `Fasoo DRM`이란 프로그램이 설치되어 있는지 확인, 삭제  
 
-- MO2에서 `Fix Radio Subtitle` 또는 `High FPS Physics Fix` 체크 해제하기  
-
-첫번째는 라디오 자막 모드, 두번째는 로딩속도 개선이랑 fps 높을 때 발생하는 문제 고치는 모드  
+- `~/문서/My Games/Fallout 4/F4SE/crash-{날짜}.log` 확인  
+![crash-log1](./readmeimg/crash-log1.png)  
+사진처럼 Graphics 관련 오류나 `D3D11` 관련 오류가 있을 경우 그래픽 드라이버 업데이트  
 
 - windows defender에서 `Fallout 4` 폴더 검사 중지  
 
